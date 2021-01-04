@@ -425,7 +425,7 @@ public class socialLogin extends AppCompatActivity {
                                             Intent intent = new Intent(getApplicationContext(), multiplechatview.class);
                                             finish();
                                             startActivity(intent);
-
+ 
                                             break;
                                         }
                                     }
