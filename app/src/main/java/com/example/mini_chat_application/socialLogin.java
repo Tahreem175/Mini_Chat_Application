@@ -53,6 +53,11 @@ import java.util.regex.Pattern;
 
 public class socialLogin extends AppCompatActivity {
 
+
+
+
+
+    
     //  private CallbackManager mCallbackManager;
 
     private static final String TAG = "MyActivity";
@@ -425,7 +430,7 @@ public class socialLogin extends AppCompatActivity {
                                             Intent intent = new Intent(getApplicationContext(), multiplechatview.class);
                                             finish();
                                             startActivity(intent);
- 
+
                                             break;
                                         }
                                     }
