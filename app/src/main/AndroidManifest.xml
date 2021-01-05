@@ -16,7 +16,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Mini_Chat_Application">
-        <activity android:name=".SendSMS"></activity>
+        <activity android:name=".Edit_Profile"></activity>
+        <activity android:name=".SendSMS" />
         <activity android:name=".SimpleSignup" />
         <activity android:name=".VerifyPhone" />
         <activity android:name=".loginByPhone" />

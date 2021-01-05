@@ -204,6 +204,8 @@ public class multiplechatview extends AppCompatActivity
             return true;
 
         } else if (id == R.id.nav_edit_profile) {
+            Intent intent = new Intent(multiplechatview.this, Edit_Profile.class);
+            startActivity(intent);
 
 
         } else if (id == R.id.change_pass) {

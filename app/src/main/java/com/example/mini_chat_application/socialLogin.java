@@ -57,7 +57,7 @@ public class socialLogin extends AppCompatActivity {
 
 
 
-    
+
     //  private CallbackManager mCallbackManager;
 
     private static final String TAG = "MyActivity";
